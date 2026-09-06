@@ -1,6 +1,6 @@
 # FortiGate Hairpin NAT (NAT Reflection) Lab
 
-A hands-on lab solving a classic real-world firewall problem: internal users couldn't reach an internally-hosted web server using its **public VIP address**, even though external users could. Fixed with **Hairpin NAT (NAT loopback/reflection)** on a FortiGate.
+A classic real-world firewall problem: internal users couldn't reach an internally-hosted web server using its **public VIP address**, even though external users could. Fixed with **Hairpin NAT (NAT loopback/reflection)** on a FortiGate.
 
 ---
 
